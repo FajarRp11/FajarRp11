@@ -47,7 +47,9 @@
   <a target="_blank" href="https://www.instagram.com/fajar.rahyu" style="display: inline-block;">
     <img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" />
   </a>
-  <a target="_blank" href="https://fajar-rahyudi.vercel.app/">
+  <p>
+    <a target="_blank" href="https://fajar-rahyudi.vercel.app/">
     Portfolio
-  </a>  
+    </a>
+  </p>
 </p>
