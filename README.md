@@ -38,10 +38,6 @@
 
 ###
 
-<a target="_blank" href="https://fajar-rahyudi.vercel.app/">Portfolio</a>
-
-###
-
 <h2>⚡️ Where to find me</h2>
 
 <p>
@@ -51,4 +47,7 @@
   <a target="_blank" href="https://www.instagram.com/fajar.rahyu" style="display: inline-block;">
     <img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" />
   </a>
+  <a target="_blank" href="https://fajar-rahyudi.vercel.app/">
+    <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAYAAAA7MK6iAAAACXBIWXMAAAsTAAALEwEAmpwYAAACJ0lEQVR4nO2WS29NURTHf4kwNfCu2zLznPkOJBIDXAwxMKHqUSF0yHfAREoxoiaiXiNfQKsMREk8KmKAJp6te6+s5LeTneuUe9uSDu4/2ck6+/z3WuestdcDWpiFWAGcAG4Bo8A316h7x4GOmTTYAfQBP4HaX1ZwLgHt0zW6C/ik0h9AVXkQWAusA4bcq8oJ+SOwY6pGD2WGrgH7lOND2jJeyGO+C8515QrQ2azRnRqt+AGBuyo8WcA/5bvbPh/2bKxyo0bjDz6oKBQEFgITrqUFZ5YA48Z4sXtHMg+1N/ffLfwj9AMvlM8YmznezIjVSuANcFXOfeCecuT5W3M+uF2ejbQ6LeeZNn5Dpzd5AfBABRuACx4KXAaeAnOBz8AXYB7wROOBEeCiZ2vqmq/uA0WG10jcAnwHhoFu4CFwTs5eU2QT8A54D2z0Nsc75D42I4YtKpvVHTYKEa4c8Ku7zN3xrAolVw74h1es0ykUqQZUDEN48XlW3ydFn0rOAquzUrgo44y4vxvYo5xCgaGquL9KXTVr+KRIirb7/FJX5zgvp2SxqWahSBjUe4Ft8kN3C7MDbVmTiEJf3ySW/aFJTGRN4mjWJEqNGi9nbS0Zv6OingJ+T5ZmyWhqq3G5msLBLC36s0FgrG4QWF43CNzIBoH9TBFl62396DPk2LMeeFQw+kSotjJNlKy9jQx7EeNevTBjKAHHgJvAa+Cr65V73c1cohb4X/gFe9jKdkVh/G8AAAAASUVORK5CYII=" alt="domain">
+  </a>  
 </p>
